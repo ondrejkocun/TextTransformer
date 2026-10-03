@@ -1,0 +1,8 @@
+{
+    "profiles": {
+        "TextTransformer.Configuration.CommandLine": {
+            "commandName": "Project",
+            "commandLineArgs": "\"Ahoj, toto je test\" --add-spaces 3 --uppercase --font standard"
+        }
+    }
+}
